@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.88dbba04.css",
+    "main.js": "/static/js/main.6a256898.js",
+    "static/media/shopitlogo2.png": "/static/media/shopitlogo2.d61d163ea3abccfbb1d7.png",
+    "static/media/googleLogo.png": "/static/media/googleLogo.7dbc7ea39eb97007c7f4.png",
+    "index.html": "/index.html",
+    "main.88dbba04.css.map": "/static/css/main.88dbba04.css.map",
+    "main.6a256898.js.map": "/static/js/main.6a256898.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88dbba04.css",
+    "static/js/main.6a256898.js"
+  ]
+}
